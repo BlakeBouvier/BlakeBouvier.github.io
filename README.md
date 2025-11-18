@@ -1,5 +1,5 @@
 # BlakeBouvier.github.io
-<img width="2048" height="1986" alt="image" src="https://github.com/user-attachments/assets/0ddbfc4f-b8ca-4a30-9593-e394d016f981" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0ddbfc4f-b8ca-4a30-9593-e394d016f981" />
 
 #Welcome to my portfolio!
 
