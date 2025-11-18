@@ -36,10 +36,6 @@ that cxonnects to computer logic.
 
 As of now only coursework and personal pojects.
 
-===Resume===
-
-file:///C:/Users/Blake/Downloads/BlakeB%20resume%2025.pdf 
-
 ===Contact===
 blakebouvier8@gmail.com
 2062942840
